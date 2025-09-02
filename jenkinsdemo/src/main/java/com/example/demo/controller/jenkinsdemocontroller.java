@@ -9,7 +9,7 @@ public class jenkinsdemocontroller {
 	@GetMapping("/home")
 	public String getdetails()
 	{
-		return "welcome to jenkins spring boot integration";
+		return "welcome to jenkins spring boot integration project v1.0";
 	}
 
 }
